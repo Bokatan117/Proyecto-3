@@ -1,3 +1,5 @@
 print("Version principal del proyecto")
 print("Hola mundo estoy trabajando con ramas")
 print("Estamos en la rama saludo")
+print("Adios")
+print("Un placer saber de ramas")
