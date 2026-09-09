@@ -1,2 +1,2 @@
-print("Version desde feature-conflcito")
+print("Version desde feature-conflicto")
 
